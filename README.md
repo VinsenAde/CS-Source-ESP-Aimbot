@@ -23,7 +23,7 @@ The code isn't very good nor optimized but at least i have the good offsets.<br>
 * Crosshair
 
 # Usage
-`git clone https://github.com/ALittlePatate/CSS-external --recursive`<br>
+`git clone https://github.com/VinsenAde/CS-Source-ESP-Aimbot --recursive`<br>
 Compile in x64 Release mode.<br>
 Start the game then launch the cheat.<br>
 Press INSERT to open the menu.<br>
